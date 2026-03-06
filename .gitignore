@@ -1,6 +1,7 @@
 .env
-ff-c23.zip
-REAL
-FAKE
-FaceForensics++_C23
-count.py
+.vscode
+UADFV/dataset
+UADFV/fake
+UADFV/real
+FF++_C23
+Celeb-DF
