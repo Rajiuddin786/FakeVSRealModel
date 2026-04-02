@@ -3,5 +3,7 @@
 UADFV/dataset
 UADFV/fake
 UADFV/real
+UADFV/_dataset
+UADFV/test_dataset
 FF++_C23
 Celeb-DF
